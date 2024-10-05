@@ -41,7 +41,7 @@ This project focuses on exploring rental prices in Casablanca by scraping data f
 ## Architecture
 Below is the architecture of the Casablanca Rental Prices Data Engineering Project:
 
-![Architecture Diagram](image/architecture.png)
+![Architecture Diagram](images/architecture.png)
 
 ## Final Results
 1. **Looker Dashboard**: Provides key insights and trends in rental prices across various neighborhoods in Casablanca.
